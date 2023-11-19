@@ -1507,23 +1507,6 @@ body {
     align-items: center;
     color: #fff
 }
-
-.work-request input[type="submit"] {
-    width: 400px;
-    max-width: 100%;
-    line-height: 50px;
-    font-size: 16px;
-    font-weight: 700;
-    text-transform: uppercase;
-    background-color: #0f33ff;
-    border: none;
-    border-radius: 0
-}
-
-.work-request input[type="submit"]:focus {
-    outline: none
-}
-
 .work-request--options {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1581,7 +1564,7 @@ body {
 }
 .work-request--options label{
     max-width: 250px;
-    color: #282828;
+    color: #ffffff;
     transition: color .2s ease-in-out
 }
 
